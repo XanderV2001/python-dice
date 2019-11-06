@@ -38,8 +38,6 @@ python dice.py
 
 * **Xander Vos** - *Initial work* - [XanderV2001](https://github.com/XanderV2001)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is OpenSource.
